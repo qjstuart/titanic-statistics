@@ -1,4 +1,4 @@
-# statistics
+# titanic-statistics
  
 **Statistical modelling in SPSS using data from the sinking of RMS Titanic in 1912.**
 
